@@ -1,0 +1,133 @@
+.homeLanding {
+    width: 1344px;
+    height: 7432px;
+    padding: 24px 12px;
+
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.homeLanding>.storeIntroOne {
+    width: 1320px;
+    height: 103px;
+    padding: 0 12px;
+    border: 1px solid black;
+
+}
+
+.homeLanding>.introProductCtg {
+    width: 1320px;
+    height: 107px;
+    border: 1px solid black;
+    padding: 0 12px;
+
+}
+
+.homeLanding>.storeIntroTxt {
+    width: 1320px;
+    height: 95px;
+    padding: 0 12px;
+    border: 1px solid black;
+
+}
+
+.homeLanding>.sliderCtgBanner {
+    width: 1320px;
+    height: 470px;
+    padding: 0 12px;
+    border: 1px solid black;
+
+}
+
+.homeLanding>.specialOffSlider {
+    width: 1320px;
+    height: 510px;
+    border: 1px solid black;
+    padding: 16px 12px;
+
+}
+
+.homeLanding>.giftSlider {
+    width: 1320px;
+    height: 470px;
+    padding: 0 12px;
+    border: 1px solid black;
+
+}
+
+.homeLanding>.shopOptions {
+    width: 1320px;
+    height: 166px;
+    padding: 0 12px;
+    border: 1px solid black;
+
+}
+
+/*  */
+.homeLanding>.newProduct {
+    width: 1320px;
+    height: 516px;
+    padding: 8px 12px;
+    margin: 24px 0;
+    border: 1px solid black;
+}
+
+.homeLanding>.createAppleId {
+    width: 1320px;
+    height: 225px;
+    padding: 0 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.homeIphoneSlider {
+    width: 1320px;
+    height: 531px;
+    padding: 8px 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.homeIpadSlider {
+    width: 1320px;
+    height: 531px;
+    padding: 8px 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.brandsShow {
+    width: 1320px;
+    height: 123px;
+    padding: 24px 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.homeMacSlider {
+    width: 1320px;
+    height: 531px;
+    padding: 8px 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.homeWatchSlider {
+    width: 1320px;
+    height: 531px;
+    padding: 8px 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.homeAirpodsSlider {
+    width: 1320px;
+    height: 531px;
+    padding: 8px 12px;
+    border: 1px solid black;
+}
+
+.homeLanding>.homeAccesoriesSlider {
+    width: 1320px;
+    height: 531px;
+    padding: 8px 12px;
+    border: 1px solid black;
+}

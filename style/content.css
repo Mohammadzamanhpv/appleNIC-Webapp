@@ -1,0 +1,10 @@
+.content {
+    width: 100%;
+    /* height: 7432px; */
+    padding: 12px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+
+}
