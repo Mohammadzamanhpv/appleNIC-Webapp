@@ -1,0 +1,51 @@
+/* @media screen and (max-width:1400px){
+    
+    #content{
+        background: red;
+    }
+    #content > .contactusPage{
+        gap:30px;
+        width: 90%;
+    }
+
+}
+@media screen and (max-width:1200px) {
+    #content{
+        background: blue;
+    }
+    #content > .contactusPage{
+        gap:25px;
+        width: 70%;
+    }
+
+}
+@media screen and (max-width:990px) {
+    #content{
+        background: yellow;
+    }
+    #content > .contactusPage{
+        gap:20px;
+        width: 50%;
+    }
+
+}
+@media screen and (max-width:760px) {
+    #content{
+        background: green;
+    }
+    #content > .contactusPage{
+        gap:15px;
+        width: 30%;
+    }
+
+}
+@media screen and (max-width:518px) {
+    #content{
+        background: pink;
+    }
+    #content > .contactusPage{
+        gap:10px;
+        width: 20%;
+    }
+
+} */
