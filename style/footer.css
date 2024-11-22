@@ -38,18 +38,27 @@ footer>.mainFooterContent {
     /* margin-bottom: 30px; */
     opacity: 0.5;
     list-style-type: none;
+
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: right;
+    justify-content: space-evenly;
 }
+
 .footMainMenu>ul>li {
     font-size: 12px;
     font-weight: 400;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
-.footMainMenu>ul>li>a {
+
+/* .footMainMenu>ul>li>a {
     text-decoration: none;
     color: #000000a6;
-}
-.footMainMenu>ul>li>a:hover {
+} */
+
+.footMainMenu>ul>li:hover {
     text-decoration: underline;
+    cursor: pointer;
     color: #000000;
     font-weight: 500;
 }
@@ -63,6 +72,7 @@ footer>.mainFooterContent {
     font-weight: 800;
     line-height: 5px;
 }
+
 .footAboutUs>p {
     font-size: 12px;
     font-weight: 300;
@@ -78,6 +88,7 @@ footer>.mainFooterContent {
     justify-content: right;
     gap: 30px;
 }
+
 .certificate>div {
     border: 1px solid #ccc;
     border-radius: 10px;
@@ -85,6 +96,7 @@ footer>.mainFooterContent {
     padding: 10px;
     box-shadow: inset 0 0 10px #ccc;
 }
+
 .certificate>div>img {
     width: 95%;
     height: 95%;
@@ -102,6 +114,7 @@ footer>.mainFooterContent {
     font-weight: 600;
     line-height: 5px;
 }
+
 .disclaimer>p {
     font-size: 11px;
     font-weight: 300;
