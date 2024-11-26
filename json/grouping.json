@@ -1,0 +1,148 @@
+{
+    "grouping": [
+        {
+            "id": 1,
+            "name": "مک",
+            "enName": "Macbook",
+            "logoPic": "img/grouping/macLogo.webp",
+            "bannerPic": "img/Category/mac-compare-cover.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "مشاهده قیمت و خرید مک شامل مک بوک ، آیمک ، مک استدیو ، مک مینی و مک بوک پرو از طریق لینک های زیر میسر شده است. این لپ تاب های قابل حمل برای استفاده طراحان، تحلیل گران، گرافیست ها، گیمرها و کاربرانی که به سطح بسیار بالایی از پردازش گرافیکی یا تحلیل فنی نیاز دارند، توسط شرکت اپل طراحی و تولید شده است.",
+            "date": ""
+        },
+        {
+            "id": 2,
+            "name": "آیفون",
+            "enName": "Iphone",
+            "logoPic": "img/grouping/iphoneLogo.webp",
+            "bannerPic": "img/Category/iphonecover.webp",
+            "rating": "4",
+            "ratingCount": "1800",
+            "status": "",
+            "describe": "قیمت مناسب برای خرید انواع گوشی های ایفون اپل از طریق لینک های زیر ممکن شده است. موبایل های آیفون با داشتن امکانات بی نظیر در میان تلفن های هوشمند موجود در بازار، قابلیت های بی نظیری را در زمینه قدرت پردازش، دوربین با امکانات استثنایی و صفحه نمایش با طراحی ویژه و چشم نواز را در اختیار کاربران قرار می دهد",
+            "date": ""
+        },
+        {
+            "id": 3,
+            "name": "آیپد",
+            "enName": "Ipad",
+            "logoPic": "img/grouping/ipadLogo.webp",
+            "bannerPic": "img/Category/ipadcover24.webp",
+            "rating": "4",
+            "ratingCount": "816",
+            "status": "",
+            "describe": "بهترین قیمت آیپد و خرید ایپد های اپل شامل انواع آیپد پرو ، آیپد ایر ، آیپد مینی و آیپد های جدید ۲۰۲۴ از طریق لینک های زیر با قیمت مناسب میسر شده است. این تبلت های قدرتمند اپل به نحوی طراحی و توسعه داده شده تا نیاز طراحان، تحلیل گران، گیمرها و گرافیست ها را برطرف سازد که به دسترسی سریع به یک وسیله قدرتمند و منعطف برای پیاده سازی ایده های خود در هر محل نیازمند هستند.",
+            "date": ""
+        },
+        {
+            "id": 4,
+            "name": "ایرپاد",
+            "enName": "Airpod",
+            "logoPic": "img/grouping/airpodLogo.webp",
+            "bannerPic": "img/Category/airpods-banner.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "قیمت خرید ایرپاد شامل نسل های ایرپاد، ایرپاد پرو و ایرپاد مکس از طریق لینک های زیر امکان پذیر شده است. ایرپاد به عنوان یکی از قدرتمند هندزفری های بلوتوثی تولید شده توسط اپل از سازگاری بسیار بالایی با محصولات اپل از جمله آیفون و مک بوک برخوردار است.",
+            "date": ""
+        },
+        {
+            "id": 5,
+            "name": "اپل واچ",
+            "enName": "Apple Watch",
+            "logoPic": "img/grouping/watchLogo.webp",
+            "bannerPic": "img/Category/apple-watch-coverbanner.webp",
+            "rating": "4",
+            "ratingCount": "799",
+            "status": "",
+            "describe": "خرید اپل واچ سری ۱۰ و الترا با بهترین قیمت از طریق لینک های زیر برای طرفداران ساعت های هوشمند اپل مسیر شده است . Apple Watch با طراحی زیبا و عملکرد قدرتمند پردازنده ، صفحه نمایش لمسی با کیفیت بهترین واچ هوشمند در بازار جهانی می باشد",
+            "date": ""
+        },
+        {
+            "id": 6,
+            "name": "ویژن پرو",
+            "enName": "Vision pro",
+            "logoPic": "img/grouping/visionProLogo.webp",
+            "bannerPic": "img/Category/banner-vision-pro.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "مشاهده قیمت خرید اپل ویژن پرو که از محصولات خلاقانه و جذاب شرکت اپل می باشد و تجربه ای متفاوت در عرصه واقعیت مجازی و واقعیت افزوده برای کاربران ایجاد می کند. مجموعه این محصولات از طریق لینکهای زیر در دسترس می باشد.",
+            "date": ""
+        },
+        {
+            "id": 7,
+            "name": "لوازم جانبی",
+            "enName": "Accessories",
+            "logoPic": "img/grouping/acsessoriLogo.webp",
+            "bannerPic": "img/Category/accesories-cover.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": " مشاهده، بررسی، مقایسه و بهترین قیمت خرید برترین و جدیدترین لوازم جانبی اپل از بهترین برندهای مطرح جهان در این صفحه عرضه شده است، لوازم جانبی و اکسسوری مد نظر خود را انتخاب کرده و با قیمت مناسب خرید کنید.",
+            "date": ""
+        },
+        {
+            "id": 8,
+            "name": "ایرتگ",
+            "enName": "Airtag",
+            "logoPic": "img/grouping/airtagsLogo.webp",
+            "bannerPic": "img/Category/airtagcatcover.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "بررسی و مقایسه قیمت خرید انواع ایرتگ و لوازم جانبی مرتبط با آن در این بخش برای طرفداران لوازم جانبی اپل قابل مشاهده کنید. انواع کاور و آویز ایرتگ را می توانید در این بخش با قیمت و کیفیت مناسب در لینک های زیر یافته و محصول مدنظر خود را خریداری کنید.",
+            "date": ""
+        },
+        {
+            "id": 9,
+            "name": "اپل تی وی",
+            "enName": "Apple Tv",
+            "logoPic": "img/grouping/appletvLogo.webp",
+            "bannerPic": "img/Category/apple-tv-banner.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "خرید اپل تی وی با بهترین قیمت از طریق لینک زیر در دسترس می باشد اپل تی وی یک محصول فوق العاده قدرتمند در کنار تلویزیون شما می باشد که با امکانات خود دسترسی به انواع شبکه های تلویزیونی اینترنتی و انتقال تصویر از دیگر دستگاه های اپل را تسهیل می کند. این محصول به همراه لوازم جانبی مرتبط، برای کاربرانی که به دنبال یک باکس تلویزیونی ایده آل هستند. به بازار عرضه شده است",
+            "date": ""
+        },
+        {
+            "id": 10,
+            "name": "هدفون و اسپیکر",
+            "enName": "Spekers",
+            "logoPic": "img/grouping/headphone-speakerLogo.webp",
+            "bannerPic": "img/Category/headphone-cat.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "بهترین قیمت خرید انواع هندزفری بلوتوثی ایرپاد اپل ابزارهای صوتی را می‌توانید در این بخش مشاهده کنید. در صورتی که تمایل به خرید ایرپاد هندزفری بی سیم اپل دارید می‌توانید با مراجعه به لینک زیر محصول مورد نظر خود را انتخاب کنید. همچنین اگر قصد خرید هوم پاد و اسپیکر خانگی را دارید، می‌توانید در این بخش محصول مورد نظر خود را پیدا کنید.",
+            "date": ""
+        },
+        {
+            "id": 11,
+            "name": "کنسول بازی",
+            "enName": "game console",
+            "logoPic": "img/grouping/gamingconsoleLogo.webp",
+            "bannerPic": "img/Category/gamingconsolecatcover.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": " خرید انواع کنسول بازی از طریق لینک های زیر برای طیف وسیعی از طرفداران بازی های دیجیتال ممکن شده است. کنسول های بازی تولید شده توسط شرکت های پر آوازه در این زمینه نظیر مایکروسافت و سونی با قیمت های مناسب در دسترس شما می باشد.",
+            "date": ""
+        },
+        {
+            "id": 12,
+            "name": "خرید گیفت کارت",
+            "enName": "gift Cards",
+            "logoPic": "img/grouping/giftcardsLogo.webp",
+            "bannerPic": "img/grouping/giftcardsLogo.webp",
+            "rating": "4",
+            "ratingCount": "721",
+            "status": "",
+            "describe": "",
+            "date": ""
+        }
+    ]
+}
